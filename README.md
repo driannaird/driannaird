@@ -42,10 +42,11 @@
 </p>
 
 <!-- Contribution Snake -->
-## 🐍 Contribution Snake
+<!-- ## 🐍 Contribution Snake
 <p align="center">
   <img src="https://github.com/driannaird/blob/output/github-contribution-grid-snake.svg" alt="snake animation">
 </p>
+-->
 
 <!-- Footer -->
 <p align="center">
