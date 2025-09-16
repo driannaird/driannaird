@@ -1,23 +1,23 @@
 <!-- Greeting -->
 <h1 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 <p align="center">
-  I'm <strong>Drian</strong> (Drian Tcho), a passionate front-end developer in the making!<br>
+  I'm <strong>Drian</strong>, a passionate full-stack developer in the making!<br>
   👨‍💻 I love turning creative ideas into reality through code.
 </p>
 
 <!-- About Me -->
 ## 🙋‍♂️ About Me
-- 🌱 I’m currently learning **React** and **Node.js** to broaden my skills.
+- 🌱 I’m currently learning **Management** to broaden my skills.
 - 🔭 I’m working on personal projects and contributing to open source.
-- 💬 Ask me about **front-end development** or anything tech – I'm happy to help!
-- 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/yourprofile) • **Email:** your.email@example.com
-- ⚡ **Fun fact:** I’m a big fan of coffee and late-night coding sessions.
+- 💬 Ask me about **development** or anything tech – I'm happy to help!
+- 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/drian-pratama)
+- ⚡ **Fun fact:** I’m a big fan of coffee and book sessions.
 
 <!-- Tech Stack -->
 ## 🛠️ Tech Stack
-**Languages:** HTML, CSS, JavaScript, TypeScript  
+**Languages:** JavaScript, TypeScript  
 **Frameworks:** React, Next.js, Node.js (Express)  
-**Tools:** Git, VS Code, Figma, Linux
+**Tools:** Git, VS Code, Figma, Linux, Docker
 
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
@@ -44,7 +44,7 @@
 <!-- Contribution Snake -->
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/driannaird/driannaird/blob/output/github-contribution-grid-snake.svg" alt="snake animation">
+  <img src="https://github.com/driannaird/blob/output/github-contribution-grid-snake.svg" alt="snake animation">
 </p>
 
 <!-- Footer -->
