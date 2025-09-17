@@ -25,9 +25,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=driannaird&show_icons=true&theme=radical" alt="Drian's GitHub Stats" height="165"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=driannaird&layout=compact&theme=radical" alt="Drian's Top Languages" height="165">
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com?user=driannaird&theme=radical&hide_border=true" alt="Drian's GitHub Streak Stats" height="165">
-</p>
+</p> -->
 <!-- Trophy (optional) -->
 <!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Drian-key&theme=onedark&no-frame=true&no-bg=true" alt="GitHub Trophies">
